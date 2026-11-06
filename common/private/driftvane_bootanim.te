@@ -1,0 +1,2 @@
+# DriftVaneOS: boot animation haptics (talks to the vibrator HAL)
+hal_client_domain(bootanim, hal_vibrator)
